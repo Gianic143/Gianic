@@ -35,7 +35,7 @@
       "PREFIX": {
         "description": "Bot commad prefix or handler (separate multiple prefix with space). By DefaultU Can Set <$>",
         "value": "$",
-        "required": true 
+        "required": false
       },
       "LANGUAGE": {
         "description": "An available bot language (read the README.md for more info)",
